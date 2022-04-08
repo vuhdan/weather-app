@@ -1,0 +1,28 @@
+#container{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    margin: 0;
+}
+
+.forecast-cards{
+    display:flex;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.icon{
+    position: relative;
+    top: 20%;
+}
+
+#search{
+    position: relative;
+    left: 50%;
+    margin-left: -10%;
+}
